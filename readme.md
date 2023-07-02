@@ -1,3 +1,21 @@
+<h1> 14Bis x Meteoros </h1> 
+<div style='display:flex'>
+  <img src='https://img.shields.io/badge/Lua-%2300007c' />
+  <img src='https://img.shields.io/badge/L%C3%96VE2D-%23ea316e' />
+</div>
+
+Jogo feito a partir de um curso da Alura sobre a linguagem Lua.
+  
+| :placard: Informações  |     |
+| -------------  | --- |
+| :sparkles: Nome        | 14Bis x Meteoros
+| :label: Tecnologias | Lua, LOVE2D
+
+
+#
+
+
+
 LÖVE is an *awesome* framework you can use to make 2D games in Lua. It's free, open-source, and works on Windows, macOS, Linux, Android, and iOS.
 
 [![Build Status: Windows](https://ci.appveyor.com/api/projects/status/chc0hdr08wv1d5c7?svg=true)](https://ci.appveyor.com/project/AlexSzpakowski/love)
