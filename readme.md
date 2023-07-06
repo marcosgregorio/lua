@@ -16,4 +16,9 @@ Jogo feito a partir de um curso da Alura sobre a linguagem Lua.
 
 ![ezgif com-video-to-gif(5)](https://github.com/marcosgregorio/lua/assets/78617642/3ba51585-223a-4fad-b604-59c40b5c133f)
 
-#
+### ▶️ Iniciando o jogo
+
+  Para abrir o jogo, basta rodar esse comando em seu CLI dentro da pasta do projeto.
+```bash
+.\love.exe .\jogo\
+```
